@@ -68,7 +68,7 @@ The procdure is to train these Neural Networks of 25 variables on normal input. 
 
 
 
-# Gradient Explosion
+## Gradient Explosion
 
 Due to very difficult dataset. Gradient explosion is very common. While training the neural Network the user may notice NAN in the loss. 
 
