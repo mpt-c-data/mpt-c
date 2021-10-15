@@ -77,3 +77,22 @@ Due to very difficult dataset. Gradient explosion is very common. While training
 2. Multiple random intialization of the trainig.
 
 The Neural Networks on this dataset were trained with 100's of different random initialization and combination of learning rate to achieve the desired result.
+
+## Example
+
+##### This example will be about to train a neural network on normal 162 varaibles:
+
+The data file in ./data/INPUT_DATA.csv is the file given by author that contains the normal 162 varaibles that shall be given at input of the whole training of the neural network. 
+
+
+```bat
+
+cd Multidimensional-Personality-Test-for-Children-MPT-C-
+
+python main.py --input_csv_path ./data/INPUT_DATA.csv --output_csv_path './data/PAG.csv' --learning_rate 0.00001 --varaible_name PAG --OUTPUT_DIR ./output/ --MAE_WEIGHTAGE 1 --PAE_WEIGHTAGE 5 --epochs 50 --first_layer_neuron 162 --second_layer_neuron 2048 --Special_variable False --Regularization False 
+
+```
+
+
+
+
