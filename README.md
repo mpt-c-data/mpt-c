@@ -65,3 +65,10 @@ Note : These two special variables donot take any predefined input. The input to
 25.WITHDRAWAL
 
 The procdure is to train these Neural Networks of 25 variables on normal input. Than use those 25 neural networks to get a input of 25 variables for the training of the special variables i.e. SEL and SEV 
+
+
+
+# Gradient Explosion
+
+Due to very difficult dataset. Gradient explosion is very common. While training the neural Network the user may notice NAN in the loss. 
+
