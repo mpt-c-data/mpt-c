@@ -77,6 +77,7 @@ Due to very difficult dataset. Gradient explosion is very common. While training
 2. Multiple random intialization of the training.
 
 The Neural Networks on this dataset were trained with 100's of different random initialization and combination of learning rate to achieve the desired result.
+If required results are not obtained in terms of correlation/loss. Rerun the algorithm as the starting is randomly initialized. Different runs yeild different results.
 
 ## Example
 
