@@ -71,4 +71,4 @@ object.create_prediction_csv()
 object2 = file_creator(model_path = str(output_dir)+str(Variable_name)+'.h5', path_to_forumla_file = str(output_dir)+str(Variable_name)+'.txt')
 
 
-
+object2.formula_creator()
