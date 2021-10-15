@@ -70,5 +70,10 @@ The procdure is to train these Neural Networks of 25 variables on normal input. 
 
 ## Gradient Explosion
 
-Due to very difficult dataset. Gradient explosion is very common. While training the neural Network the user may notice NAN in the loss. 
+Due to very difficult dataset. Gradient explosion is very common. While training the neural Network the user may notice NAN in the loss. This can only be avoided by certain conditions:
 
+1. Trying different learning rates.
+
+2. Multiple random intialization of the trainig.
+
+The Neural Networks on this dataset were trained with 100's of different random initizlization and combination of learning rate to achieve the desired result.
