@@ -89,9 +89,46 @@ The data file in ./data/INPUT_DATA.csv is the file given by author that contains
 
 cd Multidimensional-Personality-Test-for-Children-MPT-C-
 
-python main.py --input_csv_path ./data/INPUT_DATA.csv --output_csv_path './data/PAG.csv' --learning_rate 0.00001 --varaible_name PAG --OUTPUT_DIR ./output/ --MAE_WEIGHTAGE 1 --PAE_WEIGHTAGE 5 --epochs 50 --first_layer_neuron 162 --second_layer_neuron 2048 --Special_variable False --Regularization False 
+python main.py --input_csv_path './data/INPUT_DATA.csv' --output_csv_path './data/PAG.csv' --learning_rate 0.00001 --varaible_name 'PAG' --OUTPUT_DIR './output/' --MAE_WEIGHTAGE 1 --PAE_WEIGHTAGE 5 --epochs 50 --first_layer_neuron 162 --second_layer_neuron 2048 --Special_variable False --Regularization False 
 
 ```
+
+The details for each input variable are as follows :
+
+```
+--input_csv_path : Path to the input csv 
+
+--output_csv_path : The output ground truth of the variable 
+
+--learning_rate : The learning_rate of the optimizer
+
+--varaible_name : The name of the variable you want to train
+
+--OUTPUT_DIR : The directory where output models and csv and formula txt are gonna be saved 
+
+--MAE_WEIGHTAGE : The weightage given to the Mean Absolute Error. This can be anything between 0- 10. A hyperparameter
+
+--PAE_WEIGHTAGE : The weightage given to the Pearson Correlation. This can be anything between 0- 10. A hyperparameter
+
+--epochs : The number of epochs to train the model
+
+--first_layer_neuron : The number of nodes/neurons in first layer of neural network. A hyperparameter
+
+--second_layer_neuron : The number of nodes/neurons in second layer of neural network. A hyperparameter
+
+--Special_variable : If special Variable == True than SEL and SEV are gonna be trained. One must ensure that input csv is not same as 162 variable csv
+
+--Regularization ; If true turns on regularization in the neural Network 
+
+```
+
+
+
+
+
+
+
+
 
 
 
