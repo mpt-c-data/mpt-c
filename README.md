@@ -74,7 +74,7 @@ Due to very difficult dataset. Gradient explosion is very common. While training
 
 1. Trying different learning rates.
 
-2. Multiple random intialization of the trainig.
+2. Multiple random intialization of the training.
 
 The Neural Networks on this dataset were trained with 100's of different random initialization and combination of learning rate to achieve the desired result.
 
