@@ -1,0 +1,1653 @@
+processing the varaiable SUICIDE all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                0   SUICIDE
+0        1.000000  0.850813
+SUICIDE  0.850813  1.000000
+the total loss on the testing file is as follows
+0.259071860405115
+The correlation factor ON training DATA is as follows
+                0   SUICIDE
+0        1.000000  0.769166
+SUICIDE  0.769166  1.000000
+the total loss on the  training file is as follows
+0.354042256641974
+The correlation factor ON validating DATA is as follows
+               0  SUICIDE
+0        1.00000  0.90353
+SUICIDE  0.90353  1.00000
+the total loss on the validating file is as follows
+0.5934824441487973
+processing the varaiable IQ all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+           0        IQ
+0   1.000000  0.855709
+IQ  0.855709  1.000000
+the total loss on the testing file is as follows
+5.100718021392822
+The correlation factor ON training DATA is as follows
+           0        IQ
+0   1.000000  0.954793
+IQ  0.954793  1.000000
+the total loss on the  training file is as follows
+4.050401495408642
+The correlation factor ON validating DATA is as follows
+           0        IQ
+0   1.000000  0.818215
+IQ  0.818215  1.000000
+the total loss on the validating file is as follows
+6.1937605539957685
+processing the varaiable AMBIG all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+              0     AMBIG
+0      1.000000  0.815747
+AMBIG  0.815747  1.000000
+the total loss on the testing file is as follows
+9.867617269357046
+The correlation factor ON training DATA is as follows
+             0    AMBIG
+0      1.00000  0.85077
+AMBIG  0.85077  1.00000
+the total loss on the  training file is as follows
+8.671777959325825
+The correlation factor ON validating DATA is as follows
+              0     AMBIG
+0      1.000000  0.732876
+AMBIG  0.732876  1.000000
+the total loss on the validating file is as follows
+12.67150420943896
+processing the varaiable EGODYST all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+               0  EGODYST
+0        1.00000  0.92218
+EGODYST  0.92218  1.00000
+the total loss on the testing file is as follows
+6.136043230692546
+The correlation factor ON training DATA is as follows
+                0   EGODYST
+0        1.000000  0.985666
+EGODYST  0.985666  1.000000
+the total loss on the  training file is as follows
+3.883943304843065
+The correlation factor ON validating DATA is as follows
+                0   EGODYST
+0        1.000000  0.916109
+EGODYST  0.916109  1.000000
+the total loss on the validating file is as follows
+6.799540668725967
+processing the varaiable AUTISM all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+               0    AUTISM
+0       1.000000  0.614216
+AUTISM  0.614216  1.000000
+the total loss on the testing file is as follows
+1.6814039647579193
+The correlation factor ON training DATA is as follows
+               0    AUTISM
+0       1.000000  0.954063
+AUTISM  0.954063  1.000000
+the total loss on the  training file is as follows
+0.6119760864724716
+The correlation factor ON validating DATA is as follows
+               0    AUTISM
+0       1.000000  0.836458
+AUTISM  0.836458  1.000000
+the total loss on the validating file is as follows
+1.2827140639225643
+processing the varaiable IDENTITY all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                 0  IDENTITY
+0         1.000000  0.758786
+IDENTITY  0.758786  1.000000
+the total loss on the testing file is as follows
+0.6619612324494318
+The correlation factor ON training DATA is as follows
+                 0  IDENTITY
+0         1.000000  0.975397
+IDENTITY  0.975397  1.000000
+the total loss on the  training file is as follows
+0.6388155377990151
+The correlation factor ON validating DATA is as follows
+                 0  IDENTITY
+0         1.000000  0.949927
+IDENTITY  0.949927  1.000000
+the total loss on the validating file is as follows
+0.7808172570877387
+processing the varaiable SELFDIR all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                0   SELFDIR
+0        1.000000  0.505034
+SELFDIR  0.505034  1.000000
+the total loss on the testing file is as follows
+1.117719622889961
+The correlation factor ON training DATA is as follows
+                0   SELFDIR
+0        1.000000  0.459219
+SELFDIR  0.459219  1.000000
+the total loss on the  training file is as follows
+1.2422520379913315
+The correlation factor ON validating DATA is as follows
+                0   SELFDIR
+0        1.000000  0.297087
+SELFDIR  0.297087  1.000000
+the total loss on the validating file is as follows
+1.4521536113785916
+processing the varaiable EMPATHY all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                0   EMPATHY
+0        1.000000  0.728849
+EMPATHY  0.728849  1.000000
+the total loss on the testing file is as follows
+1.3515882195874316
+The correlation factor ON training DATA is as follows
+                0   EMPATHY
+0        1.000000  0.844629
+EMPATHY  0.844629  1.000000
+the total loss on the  training file is as follows
+1.1104730671677594
+The correlation factor ON validating DATA is as follows
+                0   EMPATHY
+0        1.000000  0.697561
+EMPATHY  0.697561  1.000000
+the total loss on the validating file is as follows
+1.3153283205188688
+processing the varaiable INTIMACY all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                0  INTIMACY
+0         1.00000   0.79053
+INTIMACY  0.79053   1.00000
+the total loss on the testing file is as follows
+0.41852029351914516
+The correlation factor ON training DATA is as follows
+                 0  INTIMACY
+0         1.000000  0.783538
+INTIMACY  0.783538  1.000000
+the total loss on the  training file is as follows
+0.40175218405790036
+The correlation factor ON validating DATA is as follows
+                0  INTIMACY
+0         1.00000   0.51314
+INTIMACY  0.51314   1.00000
+the total loss on the validating file is as follows
+0.5737184696243007
+processing the varaiable ACUTE all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+              0     ACUTE
+0      1.000000  0.325193
+ACUTE  0.325193  1.000000
+the total loss on the testing file is as follows
+1.7326577623645145
+The correlation factor ON training DATA is as follows
+              0     ACUTE
+0      1.000000  0.605421
+ACUTE  0.605421  1.000000
+the total loss on the  training file is as follows
+1.784911628127098
+The correlation factor ON validating DATA is as follows
+              0     ACUTE
+0      1.000000  0.397093
+ACUTE  0.397093  1.000000
+the total loss on the validating file is as follows
+1.9074158609634446
+processing the varaiable CHRONIC all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                0   CHRONIC
+0        1.000000  0.651624
+CHRONIC  0.651624  1.000000
+the total loss on the testing file is as follows
+1.348679764616874
+The correlation factor ON training DATA is as follows
+                0   CHRONIC
+0        1.000000  0.746291
+CHRONIC  0.746291  1.000000
+the total loss on the  training file is as follows
+1.1646351433172821
+The correlation factor ON validating DATA is as follows
+                0   CHRONIC
+0        1.000000  0.547788
+CHRONIC  0.547788  1.000000
+the total loss on the validating file is as follows
+1.2001078837821562
+processing the varaiable TRAUMA_PAST all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                    0  TRAUMA_PAST
+0            1.000000     0.779367
+TRAUMA_PAST  0.779367     1.000000
+the total loss on the testing file is as follows
+8.576025209928813
+The correlation factor ON training DATA is as follows
+                    0  TRAUMA_PAST
+0            1.000000     0.992467
+TRAUMA_PAST  0.992467     1.000000
+the total loss on the  training file is as follows
+8.39786652514809
+The correlation factor ON validating DATA is as follows
+                    0  TRAUMA_PAST
+0            1.000000     0.762427
+TRAUMA_PAST  0.762427     1.000000
+the total loss on the validating file is as follows
+8.691820094459935
+processing the varaiable TRAUMA_PRESENT all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                       0  TRAUMA_PRESENT
+0               1.000000        0.783612
+TRAUMA_PRESENT  0.783612        1.000000
+the total loss on the testing file is as follows
+3.7879921114235593
+The correlation factor ON training DATA is as follows
+                       0  TRAUMA_PRESENT
+0               1.000000        0.939142
+TRAUMA_PRESENT  0.939142        1.000000
+the total loss on the  training file is as follows
+3.182277855643055
+The correlation factor ON validating DATA is as follows
+                       0  TRAUMA_PRESENT
+0               1.000000        0.935491
+TRAUMA_PRESENT  0.935491        1.000000
+the total loss on the validating file is as follows
+3.4943068926794485
+processing the varaiable HOPE all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+             0      HOPE
+0     1.000000  0.600275
+HOPE  0.600275  1.000000
+the total loss on the testing file is as follows
+0.5675651046537584
+The correlation factor ON training DATA is as follows
+             0      HOPE
+0     1.000000  0.994422
+HOPE  0.994422  1.000000
+the total loss on the  training file is as follows
+0.29648418426513673
+The correlation factor ON validating DATA is as follows
+            0     HOPE
+0     1.00000  0.61189
+HOPE  0.61189  1.00000
+the total loss on the validating file is as follows
+0.5134731281188226
+processing the varaiable SELFAFFICACY all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                     0  SELFAFFICACY
+0             1.000000      0.835628
+SELFAFFICACY  0.835628      1.000000
+the total loss on the testing file is as follows
+4.316086593204208
+The correlation factor ON training DATA is as follows
+                     0  SELFAFFICACY
+0             1.000000      0.835857
+SELFAFFICACY  0.835857      1.000000
+the total loss on the  training file is as follows
+4.422727573604323
+The correlation factor ON validating DATA is as follows
+                     0  SELFAFFICACY
+0             1.000000      0.585001
+SELFAFFICACY  0.585001      1.000000
+the total loss on the validating file is as follows
+4.2179177929797484
+processing the varaiable SELFESTEEM all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                   0  SELFESTEEM
+0           1.000000    0.395108
+SELFESTEEM  0.395108    1.000000
+the total loss on the testing file is as follows
+1.718149876882953
+The correlation factor ON training DATA is as follows
+                   0  SELFESTEEM
+0           1.000000    0.584783
+SELFESTEEM  0.584783    1.000000
+the total loss on the  training file is as follows
+1.9258045897185803
+The correlation factor ON validating DATA is as follows
+                   0  SELFESTEEM
+0           1.000000    0.311514
+SELFESTEEM  0.311514    1.000000
+the total loss on the validating file is as follows
+2.1070881516582545
+processing the varaiable WELLBEING all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                 0  WELLBEING
+0          1.00000    0.65738
+WELLBEING  0.65738    1.00000
+the total loss on the testing file is as follows
+0.6639559230496807
+The correlation factor ON training DATA is as follows
+                  0  WELLBEING
+0          1.000000   0.944553
+WELLBEING  0.944553   1.000000
+the total loss on the  training file is as follows
+0.5318273593783378
+The correlation factor ON validating DATA is as follows
+                  0  WELLBEING
+0          1.000000   0.725941
+WELLBEING  0.725941   1.000000
+the total loss on the validating file is as follows
+0.6949689619002803
+processing the varaiable HYPER all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+              0     HYPER
+0      1.000000  0.605315
+HYPER  0.605315  1.000000
+the total loss on the testing file is as follows
+9.518893925439604
+The correlation factor ON training DATA is as follows
+              0     HYPER
+0      1.000000  0.890042
+HYPER  0.890042  1.000000
+the total loss on the  training file is as follows
+9.304477211069937
+The correlation factor ON validating DATA is as follows
+              0     HYPER
+0      1.000000  0.773679
+HYPER  0.773679  1.000000
+the total loss on the validating file is as follows
+11.061616829216648
+processing the varaiable AGGR all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+             0      AGGR
+0     1.000000  0.561186
+AGGR  0.561186  1.000000
+the total loss on the testing file is as follows
+7.487620353113581
+The correlation factor ON training DATA is as follows
+             0      AGGR
+0     1.000000  0.828278
+AGGR  0.828278  1.000000
+the total loss on the  training file is as follows
+7.4829278343783905
+The correlation factor ON validating DATA is as follows
+             0      AGGR
+0     1.000000  0.832251
+AGGR  0.832251  1.000000
+the total loss on the validating file is as follows
+9.140955216187049
+processing the varaiable COND_PR all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                0   COND_PR
+0        1.000000  0.509835
+COND_PR  0.509835  1.000000
+the total loss on the testing file is as follows
+9.179222998573467
+The correlation factor ON training DATA is as follows
+                0   COND_PR
+0        1.000000  0.723917
+COND_PR  0.723917  1.000000
+the total loss on the  training file is as follows
+8.430127941358684
+The correlation factor ON validating DATA is as follows
+                0   COND_PR
+0        1.000000  0.770049
+COND_PR  0.770049  1.000000
+the total loss on the validating file is as follows
+9.390183557615684
+processing the varaiable ANXIE all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+              0     ANXIE
+0      1.000000  0.497653
+ANXIE  0.497653  1.000000
+the total loss on the testing file is as follows
+9.612117138295973
+The correlation factor ON training DATA is as follows
+              0     ANXIE
+0      1.000000  0.788001
+ANXIE  0.788001  1.000000
+the total loss on the  training file is as follows
+9.073609990371112
+The correlation factor ON validating DATA is as follows
+              0     ANXIE
+0      1.000000  0.753229
+ANXIE  0.753229  1.000000
+the total loss on the validating file is as follows
+11.511460835453125
+processing the varaiable DEPR all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+             0      DEPR
+0     1.000000  0.472999
+DEPR  0.472999  1.000000
+the total loss on the testing file is as follows
+9.442977991064303
+The correlation factor ON training DATA is as follows
+             0      DEPR
+0     1.000000  0.492823
+DEPR  0.492823  1.000000
+the total loss on the  training file is as follows
+10.16715854350784
+The correlation factor ON validating DATA is as follows
+             0      DEPR
+0     1.000000  0.712067
+DEPR  0.712067  1.000000
+the total loss on the validating file is as follows
+13.152568169036808
+processing the varaiable SOMAT all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+              0     SOMAT
+0      1.000000  0.319461
+SOMAT  0.319461  1.000000
+the total loss on the testing file is as follows
+11.07590722797596
+The correlation factor ON training DATA is as follows
+              0     SOMAT
+0      1.000000  0.598874
+SOMAT  0.598874  1.000000
+the total loss on the  training file is as follows
+10.089019225640678
+The correlation factor ON validating DATA is as follows
+             0    SOMAT
+0      1.00000  0.65922
+SOMAT  0.65922  1.00000
+the total loss on the validating file is as follows
+13.983314749446064
+processing the varaiable ATYPI all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+              0     ATYPI
+0      1.000000  0.841848
+ATYPI  0.841848  1.000000
+the total loss on the testing file is as follows
+7.648135166847206
+The correlation factor ON training DATA is as follows
+              0     ATYPI
+0      1.000000  0.974632
+ATYPI  0.974632  1.000000
+the total loss on the  training file is as follows
+9.65575439325151
+The correlation factor ON validating DATA is as follows
+              0     ATYPI
+0      1.000000  0.861448
+ATYPI  0.861448  1.000000
+the total loss on the validating file is as follows
+13.377766180071214
+processing the varaiable WITHD all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+              0     WITHD
+0      1.000000  0.502986
+WITHD  0.502986  1.000000
+the total loss on the testing file is as follows
+8.519226661095253
+The correlation factor ON training DATA is as follows
+              0     WITHD
+0      1.000000  0.848529
+WITHD  0.848529  1.000000
+the total loss on the  training file is as follows
+8.82544943503682
+The correlation factor ON validating DATA is as follows
+              0     WITHD
+0      1.000000  0.857986
+WITHD  0.857986  1.000000
+the total loss on the validating file is as follows
+11.065011772742638
+processing the varaiable ATTE_PR all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+               0  ATTE_PR
+0        1.00000  0.49326
+ATTE_PR  0.49326  1.00000
+the total loss on the testing file is as follows
+6.692384384059045
+The correlation factor ON training DATA is as follows
+                0   ATTE_PR
+0        1.000000  0.986908
+ATTE_PR  0.986908  1.000000
+the total loss on the  training file is as follows
+6.581655834324949
+The correlation factor ON validating DATA is as follows
+                0   ATTE_PR
+0        1.000000  0.621756
+ATTE_PR  0.621756  1.000000
+the total loss on the validating file is as follows
+6.271540662960337
+processing the varaiable ANG_CONT all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                 0  ANG_CONT
+0         1.000000  0.592728
+ANG_CONT  0.592728  1.000000
+the total loss on the testing file is as follows
+4.07885008591872
+The correlation factor ON training DATA is as follows
+                 0  ANG_CONT
+0         1.000000  0.979813
+ANG_CONT  0.979813  1.000000
+the total loss on the  training file is as follows
+3.536292595474272
+The correlation factor ON validating DATA is as follows
+                 0  ANG_CONT
+0         1.000000  0.838379
+ANG_CONT  0.838379  1.000000
+the total loss on the validating file is as follows
+4.990850712702825
+processing the varaiable DEV_SOC_DIS all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                    0  DEV_SOC_DIS
+0            1.000000     0.733746
+DEV_SOC_DIS  0.733746     1.000000
+the total loss on the testing file is as follows
+5.198306567852313
+The correlation factor ON training DATA is as follows
+                    0  DEV_SOC_DIS
+0            1.000000     0.911706
+DEV_SOC_DIS  0.911706     1.000000
+the total loss on the  training file is as follows
+5.178957394449715
+The correlation factor ON validating DATA is as follows
+                    0  DEV_SOC_DIS
+0            1.000000     0.786153
+DEV_SOC_DIS  0.786153     1.000000
+the total loss on the validating file is as follows
+6.089353884183444
+processing the varaiable BULLY all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+              0     BULLY
+0      1.000000  0.820312
+BULLY  0.820312  1.000000
+the total loss on the testing file is as follows
+6.718760329026442
+The correlation factor ON training DATA is as follows
+              0     BULLY
+0      1.000000  0.956633
+BULLY  0.956633  1.000000
+the total loss on the  training file is as follows
+6.445221381576509
+The correlation factor ON validating DATA is as follows
+              0     BULLY
+0      1.000000  0.865612
+BULLY  0.865612  1.000000
+the total loss on the validating file is as follows
+9.273292952317458
+processing the varaiable EMOT_SELF_C all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                    0  EMOT_SELF_C
+0            1.000000     0.339401
+EMOT_SELF_C  0.339401     1.000000
+the total loss on the testing file is as follows
+8.891695580115686
+The correlation factor ON training DATA is as follows
+                    0  EMOT_SELF_C
+0            1.000000     0.506521
+EMOT_SELF_C  0.506521     1.000000
+the total loss on the  training file is as follows
+9.217054891857748
+The correlation factor ON validating DATA is as follows
+                    0  EMOT_SELF_C
+0            1.000000     0.607822
+EMOT_SELF_C  0.607822     1.000000
+the total loss on the validating file is as follows
+11.130078711876502
+processing the varaiable EXE_FUN all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                0   EXE_FUN
+0        1.000000  0.361148
+EXE_FUN  0.361148  1.000000
+the total loss on the testing file is as follows
+6.928255521334135
+The correlation factor ON training DATA is as follows
+                0   EXE_FUN
+0        1.000000  0.528284
+EXE_FUN  0.528284  1.000000
+the total loss on the  training file is as follows
+6.590723671089766
+The correlation factor ON validating DATA is as follows
+                0   EXE_FUN
+0        1.000000  0.629088
+EXE_FUN  0.629088  1.000000
+the total loss on the validating file is as follows
+7.5779970022348255
+processing the varaiable MANIA all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+              0     MANIA
+0      1.000000  0.899058
+MANIA  0.899058  1.000000
+the total loss on the testing file is as follows
+2.9304116566975913
+The correlation factor ON training DATA is as follows
+              0     MANIA
+0      1.000000  0.906474
+MANIA  0.906474  1.000000
+the total loss on the  training file is as follows
+2.3717452253790174
+The correlation factor ON validating DATA is as follows
+              0     MANIA
+0      1.000000  0.837962
+MANIA  0.837962  1.000000
+the total loss on the validating file is as follows
+3.898515542348226
+processing the varaiable NEG_EMOT all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                 0  NEG_EMOT
+0         1.000000  0.693757
+NEG_EMOT  0.693757  1.000000
+the total loss on the testing file is as follows
+6.885309190016526
+The correlation factor ON training DATA is as follows
+                 0  NEG_EMOT
+0         1.000000  0.974931
+NEG_EMOT  0.974931  1.000000
+the total loss on the  training file is as follows
+7.226688609403722
+The correlation factor ON validating DATA is as follows
+                 0  NEG_EMOT
+0         1.000000  0.787808
+NEG_EMOT  0.787808  1.000000
+the total loss on the validating file is as follows
+7.626778940054087
+processing the varaiable ADAPT all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+              0     ADAPT
+0      1.000000  0.631515
+ADAPT  0.631515  1.000000
+the total loss on the testing file is as follows
+7.686271863208534
+The correlation factor ON training DATA is as follows
+              0     ADAPT
+0      1.000000  0.968892
+ADAPT  0.968892  1.000000
+the total loss on the  training file is as follows
+7.092810419242562
+The correlation factor ON validating DATA is as follows
+              0     ADAPT
+0      1.000000  0.867235
+ADAPT  0.867235  1.000000
+the total loss on the validating file is as follows
+7.862131989256611
+processing the varaiable SOC_SK all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+               0    SOC_SK
+0       1.000000  0.586339
+SOC_SK  0.586339  1.000000
+the total loss on the testing file is as follows
+8.159787104679989
+The correlation factor ON training DATA is as follows
+               0    SOC_SK
+0       1.000000  0.972879
+SOC_SK  0.972879  1.000000
+the total loss on the  training file is as follows
+7.968965179327543
+The correlation factor ON validating DATA is as follows
+               0    SOC_SK
+0       1.000000  0.673404
+SOC_SK  0.673404  1.000000
+the total loss on the validating file is as follows
+9.131216430664063
+processing the varaiable LEAD all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+             0      LEAD
+0     1.000000  0.568695
+LEAD  0.568695  1.000000
+the total loss on the testing file is as follows
+6.668988976111779
+The correlation factor ON training DATA is as follows
+             0      LEAD
+0     1.000000  0.967854
+LEAD  0.967854  1.000000
+the total loss on the  training file is as follows
+7.476815833481789
+The correlation factor ON validating DATA is as follows
+             0      LEAD
+0     1.000000  0.792306
+LEAD  0.792306  1.000000
+the total loss on the validating file is as follows
+7.640982219989483
+processing the varaiable ACT_DAIL all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                 0  ACT_DAIL
+0         1.000000  0.629182
+ACT_DAIL  0.629182  1.000000
+the total loss on the testing file is as follows
+7.120416924841046
+The correlation factor ON training DATA is as follows
+                 0  ACT_DAIL
+0         1.000000  0.963055
+ACT_DAIL  0.963055  1.000000
+the total loss on the  training file is as follows
+6.803370295459985
+The correlation factor ON validating DATA is as follows
+                 0  ACT_DAIL
+0         1.000000  0.710878
+ACT_DAIL  0.710878  1.000000
+the total loss on the validating file is as follows
+5.791645910698467
+processing the varaiable FUN_COM all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                0   FUN_COM
+0        1.000000  0.691988
+FUN_COM  0.691988  1.000000
+the total loss on the testing file is as follows
+8.599442108693058
+The correlation factor ON training DATA is as follows
+                0   FUN_COM
+0        1.000000  0.982562
+FUN_COM  0.982562  1.000000
+the total loss on the  training file is as follows
+9.51046147631319
+The correlation factor ON validating DATA is as follows
+                0   FUN_COM
+0        1.000000  0.717367
+FUN_COM  0.717367  1.000000
+the total loss on the validating file is as follows
+10.338476177855318
+processing the varaiable RESILI all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+              0   RESILI
+0       1.00000  0.61851
+RESILI  0.61851  1.00000
+the total loss on the testing file is as follows
+3.816933323786809
+The correlation factor ON training DATA is as follows
+               0    RESILI
+0       1.000000  0.980827
+RESILI  0.980827  1.000000
+the total loss on the  training file is as follows
+3.4486546163540863
+The correlation factor ON validating DATA is as follows
+               0    RESILI
+0       1.000000  0.806996
+RESILI  0.806996  1.000000
+the total loss on the validating file is as follows
+3.8836375896747297
+processing the varaiable ANHEDONIA all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                  0  ANHEDONIA
+0          1.000000   0.835605
+ANHEDONIA  0.835605   1.000000
+the total loss on the testing file is as follows
+0.7087246379364402
+The correlation factor ON training DATA is as follows
+                  0  ANHEDONIA
+0          1.000000   0.982139
+ANHEDONIA  0.982139   1.000000
+the total loss on the  training file is as follows
+0.5230443109422922
+The correlation factor ON validating DATA is as follows
+                  0  ANHEDONIA
+0          1.000000   0.819851
+ANHEDONIA  0.819851   1.000000
+the total loss on the validating file is as follows
+0.6872427407051286
+processing the varaiable ANXIOUSNESS all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                    0  ANXIOUSNESS
+0            1.000000     0.722309
+ANXIOUSNESS  0.722309     1.000000
+the total loss on the testing file is as follows
+0.6764106853234191
+The correlation factor ON training DATA is as follows
+                    0  ANXIOUSNESS
+0            1.000000     0.882808
+ANXIOUSNESS  0.882808     1.000000
+the total loss on the  training file is as follows
+0.5987397253140807
+The correlation factor ON validating DATA is as follows
+                    0  ANXIOUSNESS
+0            1.000000     0.645361
+ANXIOUSNESS  0.645361     1.000000
+the total loss on the validating file is as follows
+0.7559874364805799
+processing the varaiable ATTENTION_SEEKING all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                          0  ATTENTION_SEEKING
+0                  1.000000           0.688944
+ATTENTION_SEEKING  0.688944           1.000000
+the total loss on the testing file is as follows
+0.6775738750133784
+The correlation factor ON training DATA is as follows
+                          0  ATTENTION_SEEKING
+0                  1.000000           0.911311
+ATTENTION_SEEKING  0.911311           1.000000
+the total loss on the  training file is as follows
+0.5032291250787675
+The correlation factor ON validating DATA is as follows
+                          0  ATTENTION_SEEKING
+0                  1.000000           0.646974
+ATTENTION_SEEKING  0.646974           1.000000
+the total loss on the validating file is as follows
+0.80613490146014
+processing the varaiable CALLOUSNESS all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                  0  CALLOUSNESS
+0            1.0000       0.7398
+CALLOUSNESS  0.7398       1.0000
+the total loss on the testing file is as follows
+0.2508171097405495
+The correlation factor ON training DATA is as follows
+                    0  CALLOUSNESS
+0            1.000000     0.965522
+CALLOUSNESS  0.965522     1.000000
+the total loss on the  training file is as follows
+0.09555400982126594
+The correlation factor ON validating DATA is as follows
+                    0  CALLOUSNESS
+0            1.000000     0.811648
+CALLOUSNESS  0.811648     1.000000
+the total loss on the validating file is as follows
+0.18499963009549725
+processing the varaiable DECEITFULNESS all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                      0  DECEITFULNESS
+0              1.000000       0.796979
+DECEITFULNESS  0.796979       1.000000
+the total loss on the testing file is as follows
+0.36746098245343856
+The correlation factor ON training DATA is as follows
+                      0  DECEITFULNESS
+0              1.000000       0.879617
+DECEITFULNESS  0.879617       1.000000
+the total loss on the  training file is as follows
+0.2888996065706015
+The correlation factor ON validating DATA is as follows
+                     0  DECEITFULNESS
+0              1.00000        0.58326
+DECEITFULNESS  0.58326        1.00000
+the total loss on the validating file is as follows
+0.5190788115705213
+processing the varaiable DEPRESSIVITY all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                     0  DEPRESSIVITY
+0             1.000000      0.895538
+DEPRESSIVITY  0.895538      1.000000
+the total loss on the testing file is as follows
+0.20031684925479273
+The correlation factor ON training DATA is as follows
+                     0  DEPRESSIVITY
+0             1.000000      0.973939
+DEPRESSIVITY  0.973939      1.000000
+the total loss on the  training file is as follows
+0.08554201956093312
+The correlation factor ON validating DATA is as follows
+                     0  DEPRESSIVITY
+0             1.000000      0.692285
+DEPRESSIVITY  0.692285      1.000000
+the total loss on the validating file is as follows
+0.2687243655804665
+processing the varaiable DISTRACTIBILITY all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                        0  DISTRACTIBILITY
+0                1.000000         0.863864
+DISTRACTIBILITY  0.863864         1.000000
+the total loss on the testing file is as follows
+0.39984746145144584
+The correlation factor ON training DATA is as follows
+                        0  DISTRACTIBILITY
+0                1.000000         0.992914
+DISTRACTIBILITY  0.992914         1.000000
+the total loss on the  training file is as follows
+0.2560522643774748
+The correlation factor ON validating DATA is as follows
+                        0  DISTRACTIBILITY
+0                1.000000         0.765041
+DISTRACTIBILITY  0.765041         1.000000
+the total loss on the validating file is as follows
+0.5245920971276299
+processing the varaiable ECCENTRICITY all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                     0  ECCENTRICITY
+0             1.000000      0.589457
+ECCENTRICITY  0.589457      1.000000
+the total loss on the testing file is as follows
+0.6724314860578987
+The correlation factor ON training DATA is as follows
+                     0  ECCENTRICITY
+0             1.000000      0.894047
+ECCENTRICITY  0.894047      1.000000
+the total loss on the  training file is as follows
+0.5841156156435608
+The correlation factor ON validating DATA is as follows
+                     0  ECCENTRICITY
+0             1.000000      0.789511
+ECCENTRICITY  0.789511      1.000000
+the total loss on the validating file is as follows
+0.8003602140853482
+processing the varaiable EMOTIONAL_LABILITY all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                           0  EMOTIONAL_LABILITY
+0                   1.000000            0.733418
+EMOTIONAL_LABILITY  0.733418            1.000000
+the total loss on the testing file is as follows
+0.5003525624352116
+The correlation factor ON training DATA is as follows
+                           0  EMOTIONAL_LABILITY
+0                   1.000000            0.851171
+EMOTIONAL_LABILITY  0.851171            1.000000
+the total loss on the  training file is as follows
+0.4206107748746872
+The correlation factor ON validating DATA is as follows
+                           0  EMOTIONAL_LABILITY
+0                   1.000000            0.341831
+EMOTIONAL_LABILITY  0.341831            1.000000
+the total loss on the validating file is as follows
+0.7531229209515357
+processing the varaiable GRANDIOSITY all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                    0  GRANDIOSITY
+0            1.000000     0.687601
+GRANDIOSITY  0.687601     1.000000
+the total loss on the testing file is as follows
+0.5054840416677536
+The correlation factor ON training DATA is as follows
+                    0  GRANDIOSITY
+0            1.000000     0.763274
+GRANDIOSITY  0.763274     1.000000
+the total loss on the  training file is as follows
+0.41601724780723454
+The correlation factor ON validating DATA is as follows
+                    0  GRANDIOSITY
+0            1.000000     0.489713
+GRANDIOSITY  0.489713     1.000000
+the total loss on the validating file is as follows
+0.7047973717412641
+processing the varaiable HOSTILITY all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                  0  HOSTILITY
+0          1.000000   0.822513
+HOSTILITY  0.822513   1.000000
+the total loss on the testing file is as follows
+2.7850123086283283
+The correlation factor ON training DATA is as follows
+                  0  HOSTILITY
+0          1.000000   0.997069
+HOSTILITY  0.997069   1.000000
+the total loss on the  training file is as follows
+2.7771001906394956
+The correlation factor ON validating DATA is as follows
+                  0  HOSTILITY
+0          1.000000   0.851299
+HOSTILITY  0.851299   1.000000
+the total loss on the validating file is as follows
+2.7221199456722505
+processing the varaiable IMPULSIVITY all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                    0  IMPULSIVITY
+0            1.000000     0.814694
+IMPULSIVITY  0.814694     1.000000
+the total loss on the testing file is as follows
+0.402701465713401
+The correlation factor ON training DATA is as follows
+                    0  IMPULSIVITY
+0            1.000000     0.976002
+IMPULSIVITY  0.976002     1.000000
+the total loss on the  training file is as follows
+0.25987121486663817
+The correlation factor ON validating DATA is as follows
+                    0  IMPULSIVITY
+0            1.000000     0.859936
+IMPULSIVITY  0.859936     1.000000
+the total loss on the validating file is as follows
+0.3512754250437983
+processing the varaiable INTIMACY_AVOIDANCE all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                           0  INTIMACY_AVOIDANCE
+0                   1.000000            0.947509
+INTIMACY_AVOIDANCE  0.947509            1.000000
+the total loss on the testing file is as follows
+0.17297363906137406
+The correlation factor ON training DATA is as follows
+                           0  INTIMACY_AVOIDANCE
+0                   1.000000            0.984276
+INTIMACY_AVOIDANCE  0.984276            1.000000
+the total loss on the  training file is as follows
+0.11837681154254824
+The correlation factor ON validating DATA is as follows
+                           0  INTIMACY_AVOIDANCE
+0                   1.000000            0.771065
+INTIMACY_AVOIDANCE  0.771065            1.000000
+the total loss on the validating file is as follows
+0.33187181272003197
+processing the varaiable IRRESPONSIBILITY all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                         0  IRRESPONSIBILITY
+0                 1.000000          0.807183
+IRRESPONSIBILITY  0.807183          1.000000
+the total loss on the testing file is as follows
+0.6552883968237908
+The correlation factor ON training DATA is as follows
+                         0  IRRESPONSIBILITY
+0                 1.000000          0.997444
+IRRESPONSIBILITY  0.997444          1.000000
+the total loss on the  training file is as follows
+0.550747517645359
+The correlation factor ON validating DATA is as follows
+                         0  IRRESPONSIBILITY
+0                 1.000000          0.821587
+IRRESPONSIBILITY  0.821587          1.000000
+the total loss on the validating file is as follows
+0.6453427552215515
+processing the varaiable MANIPULATIVENESS all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                         0  MANIPULATIVENESS
+0                 1.000000          0.752298
+MANIPULATIVENESS  0.752298          1.000000
+the total loss on the testing file is as follows
+0.44845344144250116
+The correlation factor ON training DATA is as follows
+                         0  MANIPULATIVENESS
+0                 1.000000          0.827556
+MANIPULATIVENESS  0.827556          1.000000
+the total loss on the  training file is as follows
+0.4076819638833404
+The correlation factor ON validating DATA is as follows
+                        0  MANIPULATIVENESS
+0                 1.00000           0.56886
+MANIPULATIVENESS  0.56886           1.00000
+the total loss on the validating file is as follows
+0.5816013155685317
+processing the varaiable PERCEPTUAL_DYSREGULATION all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                                0  PERCEPTUAL_DYSREGULATION
+0                         1.00000                   0.76065
+PERCEPTUAL_DYSREGULATION  0.76065                   1.00000
+the total loss on the testing file is as follows
+0.4827725454684227
+The correlation factor ON training DATA is as follows
+                                 0  PERCEPTUAL_DYSREGULATION
+0                         1.000000                  0.864238
+PERCEPTUAL_DYSREGULATION  0.864238                  1.000000
+the total loss on the  training file is as follows
+0.3591094352984801
+The correlation factor ON validating DATA is as follows
+                                 0  PERCEPTUAL_DYSREGULATION
+0                         1.000000                  0.753492
+PERCEPTUAL_DYSREGULATION  0.753492                  1.000000
+the total loss on the validating file is as follows
+0.40905620674452475
+processing the varaiable PERSEVERATION all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                      0  PERSEVERATION
+0              1.000000       0.831272
+PERSEVERATION  0.831272       1.000000
+the total loss on the testing file is as follows
+0.9917325850936675
+The correlation factor ON training DATA is as follows
+                      0  PERSEVERATION
+0              1.000000       0.975741
+PERSEVERATION  0.975741       1.000000
+the total loss on the  training file is as follows
+0.9439567671082914
+The correlation factor ON validating DATA is as follows
+                      0  PERSEVERATION
+0              1.000000       0.835415
+PERSEVERATION  0.835415       1.000000
+the total loss on the validating file is as follows
+0.9583777480668598
+processing the varaiable RESTRICTED_AFFECTIVITY all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                               0  RESTRICTED_AFFECTIVITY
+0                       1.000000                0.729207
+RESTRICTED_AFFECTIVITY  0.729207                1.000000
+the total loss on the testing file is as follows
+0.7053717317119721
+The correlation factor ON training DATA is as follows
+                               0  RESTRICTED_AFFECTIVITY
+0                       1.000000                0.825183
+RESTRICTED_AFFECTIVITY  0.825183                1.000000
+the total loss on the  training file is as follows
+0.6028636747449636
+The correlation factor ON validating DATA is as follows
+                               0  RESTRICTED_AFFECTIVITY
+0                       1.000000                0.619707
+RESTRICTED_AFFECTIVITY  0.619707                1.000000
+the total loss on the validating file is as follows
+0.7772847298352469
+processing the varaiable RIGID_PERFECTIONISM all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                            0  RIGID_PERFECTIONISM
+0                    1.000000             0.924023
+RIGID_PERFECTIONISM  0.924023             1.000000
+the total loss on the testing file is as follows
+0.3035484627339869
+The correlation factor ON training DATA is as follows
+                            0  RIGID_PERFECTIONISM
+0                    1.000000             0.992916
+RIGID_PERFECTIONISM  0.992916             1.000000
+the total loss on the  training file is as follows
+0.23516505812108518
+The correlation factor ON validating DATA is as follows
+                            0  RIGID_PERFECTIONISM
+0                    1.000000             0.789155
+RIGID_PERFECTIONISM  0.789155             1.000000
+the total loss on the validating file is as follows
+0.4207722141948198
+processing the varaiable RISK_TAKING all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                    0  RISK_TAKING
+0            1.000000     0.867105
+RISK_TAKING  0.867105     1.000000
+the total loss on the testing file is as follows
+0.6727009670989167
+The correlation factor ON training DATA is as follows
+                    0  RISK_TAKING
+0            1.000000     0.988819
+RISK_TAKING  0.988819     1.000000
+the total loss on the  training file is as follows
+0.5234236280228942
+The correlation factor ON validating DATA is as follows
+                    0  RISK_TAKING
+0            1.000000     0.803356
+RISK_TAKING  0.803356     1.000000
+the total loss on the validating file is as follows
+0.6767399133213104
+processing the varaiable SEPARATION_INSECURITY all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                              0  SEPARATION_INSECURITY
+0                      1.000000               0.852078
+SEPARATION_INSECURITY  0.852078               1.000000
+the total loss on the testing file is as follows
+0.7531328907897396
+The correlation factor ON training DATA is as follows
+                              0  SEPARATION_INSECURITY
+0                      1.000000               0.986253
+SEPARATION_INSECURITY  0.986253               1.000000
+the total loss on the  training file is as follows
+0.6891279006004334
+The correlation factor ON validating DATA is as follows
+                              0  SEPARATION_INSECURITY
+0                      1.000000               0.790991
+SEPARATION_INSECURITY  0.790991               1.000000
+the total loss on the validating file is as follows
+0.6931941808471757
+processing the varaiable SUBMISSIVENESS all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                       0  SUBMISSIVENESS
+0               1.000000        0.890454
+SUBMISSIVENESS  0.890454        1.000000
+the total loss on the testing file is as follows
+0.6328670288766584
+The correlation factor ON training DATA is as follows
+                       0  SUBMISSIVENESS
+0               1.000000        0.982903
+SUBMISSIVENESS  0.982903        1.000000
+the total loss on the  training file is as follows
+0.6302722380459309
+The correlation factor ON validating DATA is as follows
+                       0  SUBMISSIVENESS
+0               1.000000        0.725698
+SUBMISSIVENESS  0.725698        1.000000
+the total loss on the validating file is as follows
+0.6725242190784023
+processing the varaiable SUSPICIOUSNESS all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                       0  SUSPICIOUSNESS
+0               1.000000        0.903118
+SUSPICIOUSNESS  0.903118        1.000000
+the total loss on the testing file is as follows
+0.6670468601007615
+The correlation factor ON training DATA is as follows
+                       0  SUSPICIOUSNESS
+0               1.000000        0.982092
+SUSPICIOUSNESS  0.982092        1.000000
+the total loss on the  training file is as follows
+0.517752268269658
+The correlation factor ON validating DATA is as follows
+                       0  SUSPICIOUSNESS
+0               1.000000        0.799646
+SUSPICIOUSNESS  0.799646        1.000000
+the total loss on the validating file is as follows
+0.5450263266121188
+processing the varaiable UNUSUAL_BELIEFS all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                        0  UNUSUAL_BELIEFS
+0                1.000000         0.872028
+UNUSUAL_BELIEFS  0.872028         1.000000
+the total loss on the testing file is as follows
+0.34426380097565634
+The correlation factor ON training DATA is as follows
+                        0  UNUSUAL_BELIEFS
+0                1.000000         0.919087
+UNUSUAL_BELIEFS  0.919087         1.000000
+the total loss on the  training file is as follows
+0.28033238322660325
+The correlation factor ON validating DATA is as follows
+                        0  UNUSUAL_BELIEFS
+0                1.000000         0.536631
+UNUSUAL_BELIEFS  0.536631         1.000000
+the total loss on the validating file is as follows
+0.4921455912051662
+processing the varaiable WITHDRAWAL all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+                   0  WITHDRAWAL
+0           1.000000    0.912946
+WITHDRAWAL  0.912946    1.000000
+the total loss on the testing file is as follows
+0.47159137552784336
+The correlation factor ON training DATA is as follows
+                   0  WITHDRAWAL
+0           1.000000    0.980526
+WITHDRAWAL  0.980526    1.000000
+the total loss on the  training file is as follows
+0.3315111658005044
+The correlation factor ON validating DATA is as follows
+                   0  WITHDRAWAL
+0           1.000000    0.791737
+WITHDRAWAL  0.791737    1.000000
+the total loss on the validating file is as follows
+0.5351759519337886
+processing the varaiable ACT all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+            0       ACT
+0    1.000000  0.883208
+ACT  0.883208  1.000000
+the total loss on the testing file is as follows
+6.138698951618092
+The correlation factor ON training DATA is as follows
+            0       ACT
+0    1.000000  0.996768
+ACT  0.996768  1.000000
+the total loss on the  training file is as follows
+1.2277007251476197
+The correlation factor ON validating DATA is as follows
+            0       ACT
+0    1.000000  0.912147
+ACT  0.912147  1.000000
+the total loss on the validating file is as follows
+4.795880578659676
+processing the varaiable DSP all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+            0       DSP
+0    1.000000  0.973351
+DSP  0.973351  1.000000
+the total loss on the testing file is as follows
+3.3302326782329663
+The correlation factor ON training DATA is as follows
+            0       DSP
+0    1.000000  0.993442
+DSP  0.993442  1.000000
+the total loss on the  training file is as follows
+1.6098730320280248
+The correlation factor ON validating DATA is as follows
+            0       DSP
+0    1.000000  0.938604
+DSP  0.938604  1.000000
+the total loss on the validating file is as follows
+4.222555154078716
+processing the varaiable PAG all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+            0       PAG
+0    1.000000  0.896501
+PAG  0.896501  1.000000
+the total loss on the testing file is as follows
+5.254175959406672
+The correlation factor ON training DATA is as follows
+            0       PAG
+0    1.000000  0.995559
+PAG  0.995559  1.000000
+the total loss on the  training file is as follows
+1.1690879735079678
+The correlation factor ON validating DATA is as follows
+            0       PAG
+0    1.000000  0.895227
+PAG  0.895227  1.000000
+the total loss on the validating file is as follows
+5.180937522166484
+processing the varaiable PRO all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+            0       PRO
+0    1.000000  0.918645
+PRO  0.918645  1.000000
+the total loss on the testing file is as follows
+5.693422069420686
+The correlation factor ON training DATA is as follows
+            0       PRO
+0    1.000000  0.995773
+PRO  0.995773  1.000000
+the total loss on the  training file is as follows
+1.348662296930949
+The correlation factor ON validating DATA is as follows
+            0       PRO
+0    1.000000  0.886391
+PRO  0.886391  1.000000
+the total loss on the validating file is as follows
+6.59878014873814
+processing the varaiable SPL all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+           0      SPL
+0    1.00000  0.80904
+SPL  0.80904  1.00000
+the total loss on the testing file is as follows
+8.98376020547506
+The correlation factor ON training DATA is as follows
+            0       SPL
+0    1.000000  0.993051
+SPL  0.993051  1.000000
+the total loss on the  training file is as follows
+1.3978773022340203
+The correlation factor ON validating DATA is as follows
+            0       SPL
+0    1.000000  0.906567
+SPL  0.906567  1.000000
+the total loss on the validating file is as follows
+5.273545967566
+processing the varaiable WDR all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+            0       WDR
+0    1.000000  0.766089
+WDR  0.766089  1.000000
+the total loss on the testing file is as follows
+7.034684039450981
+The correlation factor ON training DATA is as follows
+           0      WDR
+0    1.00000  0.99622
+WDR  0.99622  1.00000
+the total loss on the  training file is as follows
+1.1164151578639894
+The correlation factor ON validating DATA is as follows
+            0       WDR
+0    1.000000  0.799455
+WDR  0.799455  1.000000
+the total loss on the validating file is as follows
+5.9393460815017285
+processing the varaiable CON_1 all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+              0     CON_1
+0      1.000000  0.904742
+CON_1  0.904742  1.000000
+the total loss on the testing file is as follows
+9.235435414958644
+The correlation factor ON training DATA is as follows
+              0     CON_1
+0      1.000000  0.991808
+CON_1  0.991808  1.000000
+the total loss on the  training file is as follows
+2.0633332901932175
+The correlation factor ON validating DATA is as follows
+              0     CON_1
+0      1.000000  0.925684
+CON_1  0.925684  1.000000
+the total loss on the validating file is as follows
+6.968440664781107
+processing the varaiable DSC all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+            0       DSC
+0    1.000000  0.817301
+DSC  0.817301  1.000000
+the total loss on the testing file is as follows
+8.623582736060426
+The correlation factor ON training DATA is as follows
+           0      DSC
+0    1.00000  0.98309
+DSC  0.98309  1.00000
+the total loss on the  training file is as follows
+2.932101345222807
+The correlation factor ON validating DATA is as follows
+            0       DSC
+0    1.000000  0.884312
+DSC  0.884312  1.000000
+the total loss on the validating file is as follows
+7.177637501342876
+processing the varaiable FAN all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+            0       FAN
+0    1.000000  0.910848
+FAN  0.910848  1.000000
+the total loss on the testing file is as follows
+5.146348643947292
+The correlation factor ON training DATA is as follows
+            0       FAN
+0    1.000000  0.996361
+FAN  0.996361  1.000000
+the total loss on the  training file is as follows
+1.055639710891929
+The correlation factor ON validating DATA is as follows
+            0       FAN
+0    1.000000  0.884761
+FAN  0.884761  1.000000
+the total loss on the validating file is as follows
+4.950707877004469
+processing the varaiable OMN all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+            0       OMN
+0    1.000000  0.839149
+OMN  0.839149  1.000000
+the total loss on the testing file is as follows
+7.843837180653134
+The correlation factor ON training DATA is as follows
+            0       OMN
+0    1.000000  0.995399
+OMN  0.995399  1.000000
+the total loss on the  training file is as follows
+1.3208418313903039
+The correlation factor ON validating DATA is as follows
+           0      OMN
+0    1.00000  0.91567
+OMN  0.91567  1.00000
+the total loss on the validating file is as follows
+5.395126201011039
+processing the varaiable REP all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+            0       REP
+0    1.000000  0.947273
+REP  0.947273  1.000000
+the total loss on the testing file is as follows
+3.490481850263235
+The correlation factor ON training DATA is as follows
+            0       REP
+0    1.000000  0.996731
+REP  0.996731  1.000000
+the total loss on the  training file is as follows
+1.0833068118753657
+The correlation factor ON validating DATA is as follows
+            0       REP
+0    1.000000  0.907404
+REP  0.907404  1.000000
+the total loss on the validating file is as follows
+4.137438232834275
+processing the varaiable SOM all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+            0       SOM
+0    1.000000  0.701508
+SOM  0.701508  1.000000
+the total loss on the testing file is as follows
+12.380338897576204
+The correlation factor ON training DATA is as follows
+            0       SOM
+0    1.000000  0.957093
+SOM  0.957093  1.000000
+the total loss on the  training file is as follows
+4.9188262483086245
+The correlation factor ON validating DATA is as follows
+            0       SOM
+0    1.000000  0.872765
+SOM  0.872765  1.000000
+the total loss on the validating file is as follows
+8.258417010307312
+processing the varaiable SUB all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+            0       SUB
+0    1.000000  0.814864
+SUB  0.814864  1.000000
+the total loss on the testing file is as follows
+10.57954681886209
+The correlation factor ON training DATA is as follows
+            0       SUB
+0    1.000000  0.932532
+SUB  0.932532  1.000000
+the total loss on the  training file is as follows
+5.368719695794462
+The correlation factor ON validating DATA is as follows
+            0       SUB
+0    1.000000  0.662498
+SUB  0.662498  1.000000
+the total loss on the validating file is as follows
+9.173735850566143
+processing the varaiable UND all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+            0       UND
+0    1.000000  0.867299
+UND  0.867299  1.000000
+the total loss on the testing file is as follows
+7.879604468474517
+The correlation factor ON training DATA is as follows
+            0       UND
+0    1.000000  0.997559
+UND  0.997559  1.000000
+the total loss on the  training file is as follows
+1.4841877607384113
+The correlation factor ON validating DATA is as follows
+            0       UND
+0    1.000000  0.924565
+UND  0.924565  1.000000
+the total loss on the validating file is as follows
+4.792625427246094
+processing the varaiable ALT all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+            0       ALT
+0    1.000000  0.648568
+ALT  0.648568  1.000000
+the total loss on the testing file is as follows
+8.636355644947773
+The correlation factor ON training DATA is as follows
+            0       ALT
+0    1.000000  0.995552
+ALT  0.995552  1.000000
+the total loss on the  training file is as follows
+1.0004531558515246
+The correlation factor ON validating DATA is as follows
+            0       ALT
+0    1.000000  0.801484
+ALT  0.801484  1.000000
+the total loss on the validating file is as follows
+5.675066870612067
+processing the varaiable HUM all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+            0       HUM
+0    1.000000  0.715912
+HUM  0.715912  1.000000
+the total loss on the testing file is as follows
+11.935779326670879
+The correlation factor ON training DATA is as follows
+            0       HUM
+0    1.000000  0.973125
+HUM  0.973125  1.000000
+the total loss on the  training file is as follows
+3.2224892221315944
+The correlation factor ON validating DATA is as follows
+            0       HUM
+0    1.000000  0.783264
+HUM  0.783264  1.000000
+the total loss on the validating file is as follows
+8.566344905543971
+processing the varaiable IDL all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+           0      IDL
+0    1.00000  0.82037
+IDL  0.82037  1.00000
+the total loss on the testing file is as follows
+7.013793004525675
+The correlation factor ON training DATA is as follows
+            0       IDL
+0    1.000000  0.968664
+IDL  0.968664  1.000000
+the total loss on the  training file is as follows
+2.6869634153064252
+The correlation factor ON validating DATA is as follows
+            0       IDL
+0    1.000000  0.812003
+IDL  0.812003  1.000000
+the total loss on the validating file is as follows
+5.622033351176494
+processing the varaiable RFM all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+            0       RFM
+0    1.000000  0.872122
+RFM  0.872122  1.000000
+the total loss on the testing file is as follows
+9.663592196799613
+The correlation factor ON training DATA is as follows
+            0       RFM
+0    1.000000  0.967346
+RFM  0.967346  1.000000
+the total loss on the  training file is as follows
+4.497200959459298
+The correlation factor ON validating DATA is as follows
+            0       RFM
+0    1.000000  0.838027
+RFM  0.838027  1.000000
+the total loss on the validating file is as follows
+8.007091928172756
+processing the varaiable DN all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+           0        DN
+0   1.000000  0.848832
+DN  0.848832  1.000000
+the total loss on the testing file is as follows
+9.488034789626663
+The correlation factor ON training DATA is as follows
+           0        DN
+0   1.000000  0.976425
+DN  0.976425  1.000000
+the total loss on the  training file is as follows
+3.2928642223178337
+The correlation factor ON validating DATA is as follows
+           0        DN
+0   1.000000  0.784139
+DN  0.784139  1.000000
+the total loss on the validating file is as follows
+8.817871905661917
+processing the varaiable INT all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+            0       INT
+0    1.000000  0.812785
+INT  0.812785  1.000000
+the total loss on the testing file is as follows
+9.228579273095002
+The correlation factor ON training DATA is as follows
+           0      INT
+0    1.00000  0.97069
+INT  0.97069  1.00000
+the total loss on the  training file is as follows
+2.993107973525821
+The correlation factor ON validating DATA is as follows
+            0       INT
+0    1.000000  0.782521
+INT  0.782521  1.000000
+the total loss on the validating file is as follows
+8.80855575445536
+processing the varaiable SUP all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+            0       SUP
+0    1.000000  0.806011
+SUP  0.806011  1.000000
+the total loss on the testing file is as follows
+10.11243612057454
+The correlation factor ON training DATA is as follows
+            0       SUP
+0    1.000000  0.974391
+SUP  0.974391  1.000000
+the total loss on the  training file is as follows
+2.999632948576802
+The correlation factor ON validating DATA is as follows
+           0      SUP
+0    1.00000  0.84131
+SUP  0.84131  1.00000
+the total loss on the validating file is as follows
+8.60438420965865
+processing the varaiable ANT all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+            0       ANT
+0    1.000000  0.883806
+ANT  0.883806  1.000000
+the total loss on the testing file is as follows
+5.97222799639548
+The correlation factor ON training DATA is as follows
+            0       ANT
+0    1.000000  0.977082
+ANT  0.977082  1.000000
+the total loss on the  training file is as follows
+2.8079362468719484
+The correlation factor ON validating DATA is as follows
+            0       ANT
+0    1.000000  0.744535
+ANT  0.744535  1.000000
+the total loss on the validating file is as follows
+8.705930456038445
+processing the varaiable ISO all stats will be shown below of corresponding varaible
+The correlation factor ON testing DATA is as follows
+            0       ISO
+0    1.000000  0.898066
+ISO  0.898066  1.000000
+the total loss on the testing file is as follows
+5.534014917189075
+The correlation factor ON training DATA is as follows
+            0       ISO
+0    1.000000  0.981164
+ISO  0.981164  1.000000
+the total loss on the  training file is as follows
+2.3393456954956053
+The correlation factor ON validating DATA is as follows
+            0       ISO
+0    1.000000  0.893551
+ISO  0.893551  1.000000
+the total loss on the validating file is as follows
+6.344542534120621
