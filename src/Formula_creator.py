@@ -10,7 +10,7 @@ class file_creator:
 
     def formula_creator(self):
     # os.mknod('C:/Users/HOME/Desktop/data/FORMULAS/'+str(A)+'.txt')
-        self.model = keras.models.load_model(str(self.model_path))
+        self.model = keras.models.load_model(str(self.model_path), compile=False)
 
         f = open(str(self.filename),"w+")
         f.write(f'the formula for the varaible is written sequentially below\n')

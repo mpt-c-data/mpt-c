@@ -89,7 +89,7 @@ class train_NN_sel_sev:
 
     def get_test_data_results(self):
 
-        self.model = keras.models.load_model(str(self.output_dir)+str(self.variable_name)+'.h5')
+        self.model = keras.models.load_model(str(self.output_dir)+str(self.variable_name)+'.h5', compile=False)
         output = self.model.predict(self.x_test)
         ground_truth =  self.y_test.reset_index(drop=True)
         df = pd.DataFrame(data=output)
@@ -106,7 +106,7 @@ class train_NN_sel_sev:
 
 
     def create_prediction_csv(self):
-        self.model = keras.models.load_model(str(self.output_dir)+str(self.variable_name)+'.h5')
+        self.model = keras.models.load_model(str(self.output_dir)+str(self.variable_name)+'.h5' , compile=False)
         output = self.model.predict(self.x)
         df = pd.DataFrame(data=output)
         df.to_csv(str(self.output_dir)+str(self.variable_name)+'.csv')

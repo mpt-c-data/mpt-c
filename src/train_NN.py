@@ -32,12 +32,12 @@ class train_NN :
         # y is the out put feature
         self.y = pd.read_csv(output_varaible_csv_path,index_col=None)
         self.horizontal_stack = pd.concat([self.x, self.y], axis=1)
-        #A = list(horizontal_stack.columns.values.tolist()) 
+        A = list(self.horizontal_stack.columns.values.tolist()) 
         # if using input 2 change the 162 to 25
-        #A= A[162]
+        A= A[162]
         # This code of line removes observations with no values recorded of output feature
-        # horizontal_stack[A].replace("", np.nan, inplace=True )
-        # horizontal_stack.dropna(subset=[A], inplace=True )
+        self.horizontal_stack[A].replace("", np.nan, inplace=True )
+        self.horizontal_stack.dropna(subset=[A], inplace=True )
         # horizontal_stack.iloc[:,162:163].plot.hist(bins=20, alpha=0.5)
         # plt.title('distribution before resampling')
         # The line below takes sampling with replacement = bootstraping
@@ -67,6 +67,10 @@ class train_NN :
         self.x_test     = self.test.iloc[:,0:162]
         # if usng INPUT2.csv change 162:163 to 25:26
         self.y_test     = self.test.iloc[:,162:163]
+
+
+        print(self.x_train.head())
+        print(self.y_train.head())
         # checkpoint makes sure that model with best accuracy on test data is saved
 
     def correlation(self,x, y):
@@ -123,7 +127,7 @@ class train_NN :
 
 
     def get_test_data_results(self):
-        self.model = keras.models.load_model(str(self.output_dir)+str(self.variable_name)+'.h5')
+        self.model = keras.models.load_model(str(self.output_dir)+str(self.variable_name)+'.h5', compile=False )
         output = self.model.predict(self.x_test)
         ground_truth = self.y_test.reset_index(drop=True)
         df = pd.DataFrame(data=output)
@@ -139,7 +143,7 @@ class train_NN :
         self.test_data_pearson_corr = df.corr()
 
     def create_prediction_csv(self):
-        self.model = keras.models.load_model(str(self.output_dir)+str(self.variable_name)+'.h5')
+        self.model = keras.models.load_model(str(self.output_dir)+str(self.variable_name)+'.h5', compile=False )
         output = self.model.predict(self.x)
         df = pd.DataFrame(data=output)
         df.to_csv(str(self.output_dir)+str(self.variable_name)+'.csv')
