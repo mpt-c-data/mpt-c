@@ -66,6 +66,8 @@ Note : These two special variables donot take any predefined input. The input to
 
 The procdure is to train these Neural Networks of 25 variables on normal input. Than use those 25 neural networks to get a input of 25 variables for the training of the special variables i.e. SEL and SEV 
 
+Note: The CON variable has some issue with windows personal files. The code gets confused with naming scheme hence use some other equivalent name for it in windows os. I have used CON_1 for ir 
+
 
 
 ## Gradient Explosion
