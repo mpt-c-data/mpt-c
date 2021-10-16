@@ -129,6 +129,22 @@ The details for each input variable are as follows :
 
 
 
+## Working sample 
+
+The default configuration in the repository is to train ANT variable. After clonning the repository. Just run
+
+```bat
+
+python main.py
+
+```
+
+The output shall be generated inside the output folder :
+
+1. Formula text file 
+2. Model weights
+3. Predicted csv
+4. The pearson correlation shall be printed in the terminal screen.
 
 
 
