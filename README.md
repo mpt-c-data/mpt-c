@@ -1,78 +1,21 @@
-# Multidimensional-Personality-Test-for-Children-MPT-C-
+# MPT-C // Multidimensional Personality Test for Children
 Development and Deep Learning-based Validation of a New Projective Test for Children. 
 
-Author : Aaron Hameiri
 
-Email : aaron.hameiri@mpt-c.org
 
-This project contains the implementation of training Physcological variables on deep neural networks.
-There are main two types of neural networks.
+This project contains the implementation of training physcological variables on deep neural networks.
+There are two main types of neural networks.
 
 1. Normal Neural Networks with 162 input variables.
 
-2. SEL and SEV Neural Networks with 25 input variables.
+2. SEL and SEV variables' Neural Networks with 25 input variables*.
 
-Note : These two special variables donot take any predefined input. The input to these variables is the predicted value from trained neural networks on 25 variables. The 25 variables are as follows.
-
-1.ANHEDONIA 
-
-2.ANXIOUSNESS 
-
-3.ATTENTION_SEEKING 
-
-4.CALLOUSNESS 
-
-5.DECEITFULNESS 
-
-6.DEPRESSIVITY 
-
-7.DISTRACTIBILITY 
-
-8.ECCENTRICITY 
-
-9.EMOTIONAL_LABILITY 
-
-10.GRANDIOSITY 
-
-11.HOSTILITY 
-
-12.IMPULSIVITY 
-
-13.INTIMACY_AVOIDANCE 
-
-14.IRRESPONSIBILITY 
-
-15.MANIPULATIVENESS 
-
-16.PERCEPTUAL_DYSREGULATION 
-
-17.PERSEVERATION 
-
-18.RESTRICTED_AFFECTIVITY 
-
-19.RIGID_PERFECTIONISM 
-
-20.RISK_TAKING 
-
-21.SEPARATION_INSECURITY 
-
-22.SUBMISSIVENESS 
-
-23.SUSPICIOUSNESS 
-
-24.UNUSUAL_BELIEFS 
-
-25.WITHDRAWAL
-
-The procdure is to train these Neural Networks of 25 variables on normal input. Than use those 25 neural networks to get a input of 25 variables for the training of the special variables i.e. SEL and SEV 
-
-Note: The CON variable has some issue with windows personal files. The code gets confused with naming scheme hence use some other equivalent name for it in windows os. I have used CON_1 for ir 
-
+*Note : These two special variables do not take any predefined input. The input to these variables is the predicted value from trained neural networks on 25 variables. The 25 variables are as follows. ANHEDONIA, ANXIOUSNESS, ATTENTION_SEEKING, CALLOUSNESS, DECEITFULNESS, DEPRESSIVITY, DISTRACTIBILITY, ECCENTRICITY, EMOTIONAL_LABILITY, GRANDIOSITY, HOSTILITY, IMPULSIVITY, INTIMACY_AVOIDANCE, IRRESPONSIBILITY, MANIPULATIVENESS, PERCEPTUAL_DYSREGULATION, PERSEVERATION, RESTRICTED_AFFECTIVITY, RIGID_PERFECTIONISM, RISK_TAKING, SEPARATION_INSECURITY, SUBMISSIVENESS, SUSPICIOUSNESS, UNUSUAL_BELIEFS, WITHDRAWAL. The procedure is to train these Neural Networks of 25 variables on normal input, then, to use these 25 neural networks to get an input of 25 variables for the training of the special variables, i.e., SEL and SEV.
 
 
 ## Gradient Explosion
 
-Due to very difficult dataset. Gradient explosion is very common. While training the neural Network the user may notice NAN in the loss. This can only be avoided by certain conditions:
+Due to very difficult dataset, gradient explosion is very common. While training the neural Network, the user may notice NAN in the loss. This can be avoided only by certain conditions:
 
 1. Trying different learning rates.
 
@@ -85,7 +28,7 @@ If required results are not obtained in terms of correlation/loss. Rerun the alg
 
 ##### This example will be about to train a neural network on normal 162 varaibles:
 
-The data file in ./data/INPUT_DATA.csv is the file given by author that contains the normal 162 varaibles that shall be given at input of the whole training of the neural network. 
+The data file in ./data/INPUT_DATA.csv is the file that contains the normal 162 varaibles/inputs that shall be given at input of the whole training of the neural network. 
 
 
 ```bat
@@ -144,7 +87,7 @@ The output shall be generated inside the output folder :
 1. Formula text file 
 2. Model weights
 3. Predicted csv
-4. The pearson correlation shall be printed in the terminal screen.
+4. The Pearson correlation coefficient shall be printed in the terminal screen.
 
 
 
