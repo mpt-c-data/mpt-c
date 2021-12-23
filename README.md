@@ -4,7 +4,7 @@ Note:
 The electronic information available here is for the exclusive use of the reviewers of the authorised journals. All data stored here may not be shared or transmitted without the written consent of the author. Thank you for your understanding.
 
 
-# MPT-C // Multidimensional Personality Test for Children
+# MPT-C // Multidimensional Personality Test for Children ©
 Development and Deep Learning-based Validation of a New Projective Test for Children. 
 
 
