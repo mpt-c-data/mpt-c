@@ -1,41 +1,55 @@
 
-Note: The electronic information available here is for the exclusive use of the reviewers of the authorised journals. All data stored here may not be shared or transmitted without the written consent of the author. Thank you for your understanding.
+Note: 
+
+The electronic information available here is for the exclusive use of the reviewers of the authorised journals. All data stored here may not be shared or transmitted without the written consent of the author. Thank you for your understanding.
 
 
 # MPT-C // Multidimensional Personality Test for Children
 Development and Deep Learning-based Validation of a New Projective Test for Children. 
 
 
-
-| data |
+## Repository content
+// data
   	
-    | .csv files:	90 csv files containing the set of values for each criteria variable; as well as predicted inputs for SEL and SEV variables.
+    | .csv files:	90 csv files containing the set of values for each criteria variable; 
+       as well as predicted inputs for SEL and SEV variables.
+    | inputs:	This folder contains the set of input values (162 input in each) for each 
+      variable that entered the models, in the division of training, validation, and testing    
+      dataset
+      
+// output
 
-    | inputs:	This folder contains the set of input values (162 input in each) for each variable that entered the models, in the division of training, validation, and testing    dataset
-
-| output |
-
-  | weight:	This folder contains the model weights for each variable in .h5 files.
-
-| spss |
-
-      	| scores	This folder contains the predicted values of each variable's after running the models, in the division of training, validation, and testing dataset
-        | spss files	
-             | cronbach	This folder contains the .sav and .sps files for computing the Cronbach's alpha for each variable.
-             | pearson	This folder contains the .sav and .sps files for computing the Pearson's r coefficients for each variable.
-             | test-retest	This folder contains the .sav and .sps files for computing the test-retest intraclass correlation coefficients for each variable.
-| src	|  
-    Script files
+    | weight: This folder contains the model weights for each variable in .h5 files.
     
-| README
-| main:	The main file for model building.
+// spss
+
+      	| scores: This folder contains the predicted values of each variable's after 
+              running the models, in the division of training, validation, and testing 
+              dataset
+          
+      	| spss files	
+        
+                | cronbach: This folder contains the .sav and .sps files for computing 
+                  the Cronbach's alpha for each variable.
+               
+                | pearson: This folder contains the .sav and .sps files for computing 
+                  the Pearson's r coefficients for each variable.
+               
+                | test-retest: This folder contains the .sav and .sps files for computing 
+                  the test-retest intraclass correlation coefficients for each variable.
+               
+// src
+
+      	| Script files
+    
+// README
+
+// main: 
+
+      	| The main file for model building.
 
 
-
-
-
-
-
+## Additional info about the neural networks
 
 This project contains the implementation of training physcological variables on deep neural networks.
 There are two main types of neural networks.
